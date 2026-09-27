@@ -27,6 +27,8 @@ The objective of this project was to analyze inbound and outbound call activity 
 
 The Tableau dashboard was designed to make representative and branch performance easy to compare.
 
+![Sales Representative Call Analysis Dashboard](sales-caller-dashboard.png)
+
 ### Dashboard Features
 
 - Incoming vs. outgoing call analysis
